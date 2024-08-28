@@ -4,13 +4,20 @@ The AI Based Integrated Framework for Motion Activated Facial Recognition is an 
 
 # Key Features
 Motion Activation: The system activates automatically upon detecting motion, ensuring continuous monitoring while driving.
+
 Facial Recognition: Utilizes OpenCV for real-time facial recognition to identify and track the driver's face.
+
 Drowsiness Detection: Analyzes facial expressions to detect signs of drowsiness, such as eye closure, yawning, and head nodding.
+
 Soberness Detection: Implements sentiment analysis to assess the emotional state of the driver, identifying potential signs of impairment.
+
 Real-time Alerts: Provides immediate feedback and alerts when signs of drowsiness or impairment are detected.
-Technical Tools Used
+
+# Technical Tools Used
 Python: The core programming language used for implementing the framework.
+
 OpenCV: A powerful library used for real-time computer vision, particularly for facial recognition and motion detection.
+
 Sentiment Analysis: Employed to evaluate the emotional state of the driver and detect signs of impairment.
 
 # Usage
